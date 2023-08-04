@@ -1,4 +1,6 @@
 @echo off
+title  - https://github.com/OtaconEvil
+
 echo Configurando la conexión Ethernet automáticamente...
 ipconfig /release
 ipconfig /renew
